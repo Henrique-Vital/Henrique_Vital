@@ -30,7 +30,7 @@
 <!-- Contato -->
 ### Contato
 <div align="center"> 
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/henrique-vital/)
+[<a href="https://www.linkedin.com/in/henrique-vital/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>]
 </div>
 
  
