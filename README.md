@@ -18,7 +18,7 @@
 ### Projetos principais
 
 <div align="center"> 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Henrique-Vital?tab=repositories&theme=dark)](https://github.com/Henrique-Vital?tab=repositories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Henrique-Vital&tab=repositories&theme=dark)](https://github.com/Henrique-Vital?tab=repositories)
 </div>
 
 <!-- Contato -->
